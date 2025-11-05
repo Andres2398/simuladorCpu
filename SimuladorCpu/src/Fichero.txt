@@ -1,0 +1,5 @@
+media: 6201.25
+moda: No se encontro
+mediana: 5922.0media: 5306.25
+moda: No se encontro
+mediana: 5374.0

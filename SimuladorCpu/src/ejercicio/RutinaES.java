@@ -9,11 +9,12 @@ public class RutinaES implements Runnable {
 	private final ColaBloqueados colaBloq;
 	private volatile boolean running = true;
 	private final Random r = new Random();
-
-	public RutinaES(Cpu cpu, Planificador planificador, ColaBloqueados colaBloq) {
+	private final Despachador despachador;
+	public RutinaES(Cpu cpu, Planificador planificador, ColaBloqueados colaBloq, Despachador despachador) {
 		this.cpu = cpu;
 		this.planificador = planificador;
 		this.colaBloq = colaBloq;
+		this.despachador=despachador;
 	}
 
 	public void detener() {
