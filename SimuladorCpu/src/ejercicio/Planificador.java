@@ -9,7 +9,7 @@ public class Planificador {
     public void agregar(Proceso p) {
         p.setEstado(Estado.LISTO);
         colaListos.add(p);
-        System.out.printf("Planificador: añadido %s%n", p.getId());
+        System.out.println(Color.DORADO+"Planificador: añadido " + p.getId()+Color.RESET);
     }
 
     public Proceso siguiente() {

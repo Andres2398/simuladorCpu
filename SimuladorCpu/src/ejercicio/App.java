@@ -1,27 +1,41 @@
 package ejercicio;
 
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Random;
+import java.util.Scanner;
 
+/**
+ * CLASE QUE SIRVE PARA INICIALIZAR EL PROGRAMA (TESTER)
+ */
 public class App {
 
-	public static void start() {
+	/**
+	 * 
+	 * 
+	 * LOS COLORES QUE SALNDRAN POR CONSOLA PARA DIFRENCIAR QUE HILO ESTA
+	 * ESCRIBIENDO HAN SIDO ELEGIDOS PARA ECLIPSE EN MODO OSCURO
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * EN CASO DE BORRAR EL FICHERO PRINCIPAL SE RECOMIENDA BORRAR EL FICHERO
+	 * INDICES PARA QUE SE ESTEN SINCRONIZADOS
+	 * 
+	 * 
+	 */
 
-		// Inicializamos componentes principales
+	public static ColaTerminados start() {
+
 		Planificador planificador = new Planificador();
 		ColaBloqueados colaBloq = new ColaBloqueados();
 		ColaTerminados colaTerm = new ColaTerminados();
 
 		Despachador despachador = new Despachador(colaBloq, colaTerm, planificador);
-
-		// Crear procesos iniciales con quantums aleatorios
 
 		for (int i = 0; i < 30; i++) {
 
@@ -29,11 +43,9 @@ public class App {
 			planificador.agregar(p);
 		}
 
-		// Crear CPU y rutina de E/S
 		Cpu cpu = new Cpu(planificador, colaBloq, despachador);
-		RutinaES rutinaES = new RutinaES(cpu, planificador, colaBloq, despachador);
+		RutinaES rutinaES = new RutinaES(cpu, colaBloq, despachador);
 
-		// Lanzar los hilos
 		Thread hiloCPU = new Thread(cpu, "CPU");
 		Thread hiloES = new Thread(rutinaES, "RutinaES");
 
@@ -47,6 +59,8 @@ public class App {
 			System.out.println(e);
 		}
 
+		
+		//detener E/S
 		rutinaES.detener();
 
 		try {
@@ -57,68 +71,107 @@ public class App {
 
 		System.out.println("\nSimulación finalizada.");
 
-		System.out.println("Datos: ");
-
-		ordenFinalizacion(colaTerm);
-
-	}
-
-	private static void ordenFinalizacion(ColaTerminados colaTerm) {
-		System.out.println("Orden de Terminacion de los procesos");
-		for (Proceso p : colaTerm.getTerminados()) {
-			System.out.print(p.getId() + " ");
-		}
-
+		return colaTerm;
 	}
 
 	// TESTER
 	public static void main(String[] args) {
-		long tiempos[] = new long[4];
 
-		for (int i = 0; i < tiempos.length; i++) {
-			long inicio = System.currentTimeMillis();
-			start();
-			long fin = System.currentTimeMillis();
-			tiempos[i] = fin - inicio;
-			System.out.println("tiempo de la vuela " + i + tiempos[i]);
-
-		}
-		double media = media(tiempos);
-		double mediana = mediana(tiempos);
-		Long moda = moda(tiempos);
-
-		File f = new File("./SimuladorCpu/src/Fichero.txt/");
+		File f = new File("./src/Fichero.txt");
 		File fichero = new File(f.getAbsolutePath());
 
-		try (FileWriter fw = new FileWriter(fichero,true); 
-			BufferedWriter bw = new BufferedWriter(fw);) {
+		// true para no sobreescribir fichero
+
+		try (FileWriter fw = new FileWriter(fichero, true); BufferedWriter bw = new BufferedWriter(fw)) {
+
+			// cuantas vueltas dara el programa
+			long tiempos[] = new long[10];
+
+			int contador = contadorEjecuciones();
+			bw.write("Ejecución número: " + contador);
+			bw.newLine();
+			bw.newLine();
+			for (int i = 0; i < tiempos.length; i++) {
+
+				long inicio = System.currentTimeMillis();
+				ColaTerminados cola = start();
+				long fin = System.currentTimeMillis();
+				tiempos[i] = fin - inicio;
+
+				String s = "Tanda " + (i + 1) + " de procesos, orden de finalización: ";
+				bw.write(s);
+				bw.newLine();
+				s = "";
+				for (Proceso p : cola.getTerminados()) {
+					s += p.toString();
+				}
+				bw.write(s);
+				bw.newLine();
+				bw.newLine();
+			}
+
+			double media = media(tiempos);
+			double mediana = mediana(tiempos);
+			Long moda = moda(tiempos);
 
 			String s = Double.toString(media);
 			bw.write("media: ");
-			bw.write(s);
+			bw.write(s + " ms");
 			bw.newLine();
 
 			if (moda != null) {
 				s = Long.toString(moda);
 
 				bw.write("moda: ");
-				bw.write(s);
+				bw.write(s + " ms");
 				bw.newLine();
 			} else {
 
 				bw.write("moda: ");
-				bw.write("No se encontro");
+				bw.write("No se encontró");
 				bw.newLine();
 			}
 			s = Double.toString(mediana);
 			bw.write("mediana: ");
-			bw.write(s);
+			bw.write(s + " ms");
 			bw.newLine();
-
+			bw.newLine();
+			bw.newLine();
 		} catch (IOException e) {
 
 			e.printStackTrace();
 		}
+	}
+
+	private static int contadorEjecuciones() {
+		int contador = 0;
+		File fichero = new File("./src/indices.txt");
+
+		try {
+			// Se comprueba si existe el fichero para que en caso de que no exista,
+			// inicializarlo con el indice 0
+			if (!fichero.exists()) {
+				try (FileWriter fw = new FileWriter(fichero)) {
+					fw.write("0");
+				}
+			}
+
+			try (Scanner sc = new Scanner(fichero)) {
+				if (sc.hasNextInt()) {
+					contador = sc.nextInt();
+				}
+			}
+
+			contador++;
+			try (FileWriter fw = new FileWriter(fichero)) {
+				fw.write(String.valueOf(contador));
+			}
+
+		} catch (IOException e) {
+			System.out.println(e);
+		}
+
+		return contador;
 	}
 
 	private static Long moda(long[] t) {
@@ -151,7 +204,8 @@ public class App {
 
 	private static long mediana(long[] t) {
 		ordenar(t);
-
+		// al ser par la longitud del array solo tenemos que comprobar la mediana de
+		// esta manera
 		return (t[t.length / 2] + t[t.length / 2 - 1]) / 2;
 
 	}

@@ -1,5 +1,481 @@
-media: 6201.25
-moda: No se encontro
-mediana: 5922.0media: 5306.25
-moda: No se encontro
-mediana: 5374.0
+Ejecución número: 1
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 29, Proceso: 5, Proceso: 18, Proceso: 16, Proceso: 25, Proceso: 2, Proceso: 22, Proceso: 8, Proceso: 10, Proceso: 21, Proceso: 30, Proceso: 1, Proceso: 14, Proceso: 3, Proceso: 7, Proceso: 11, Proceso: 4, Proceso: 26, Proceso: 17, Proceso: 23, Proceso: 24, Proceso: 20, Proceso: 27, Proceso: 28, Proceso: 9, Proceso: 6, Proceso: 12, Proceso: 15, Proceso: 19, Proceso: 13, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 20, Proceso: 4, Proceso: 18, Proceso: 19, Proceso: 21, Proceso: 11, Proceso: 24, Proceso: 26, Proceso: 6, Proceso: 8, Proceso: 1, Proceso: 3, Proceso: 25, Proceso: 10, Proceso: 29, Proceso: 30, Proceso: 14, Proceso: 2, Proceso: 15, Proceso: 23, Proceso: 17, Proceso: 27, Proceso: 9, Proceso: 12, Proceso: 28, Proceso: 7, Proceso: 5, Proceso: 13, Proceso: 16, Proceso: 22, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 3, Proceso: 23, Proceso: 7, Proceso: 2, Proceso: 18, Proceso: 12, Proceso: 15, Proceso: 1, Proceso: 17, Proceso: 13, Proceso: 14, Proceso: 5, Proceso: 27, Proceso: 29, Proceso: 16, Proceso: 20, Proceso: 8, Proceso: 30, Proceso: 22, Proceso: 4, Proceso: 28, Proceso: 11, Proceso: 19, Proceso: 9, Proceso: 10, Proceso: 21, Proceso: 6, Proceso: 25, Proceso: 24, Proceso: 26, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 3, Proceso: 21, Proceso: 16, Proceso: 27, Proceso: 20, Proceso: 29, Proceso: 30, Proceso: 4, Proceso: 8, Proceso: 9, Proceso: 23, Proceso: 25, Proceso: 28, Proceso: 5, Proceso: 13, Proceso: 26, Proceso: 7, Proceso: 18, Proceso: 12, Proceso: 17, Proceso: 1, Proceso: 19, Proceso: 10, Proceso: 24, Proceso: 6, Proceso: 15, Proceso: 11, Proceso: 22, Proceso: 2, Proceso: 14, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 20, Proceso: 25, Proceso: 11, Proceso: 8, Proceso: 24, Proceso: 29, Proceso: 2, Proceso: 27, Proceso: 7, Proceso: 30, Proceso: 17, Proceso: 13, Proceso: 15, Proceso: 5, Proceso: 19, Proceso: 1, Proceso: 3, Proceso: 23, Proceso: 22, Proceso: 10, Proceso: 18, Proceso: 12, Proceso: 16, Proceso: 14, Proceso: 26, Proceso: 9, Proceso: 4, Proceso: 21, Proceso: 6, Proceso: 28, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 29, Proceso: 1, Proceso: 19, Proceso: 28, Proceso: 27, Proceso: 21, Proceso: 10, Proceso: 23, Proceso: 2, Proceso: 13, Proceso: 6, Proceso: 25, Proceso: 8, Proceso: 18, Proceso: 9, Proceso: 22, Proceso: 16, Proceso: 17, Proceso: 11, Proceso: 14, Proceso: 15, Proceso: 4, Proceso: 3, Proceso: 26, Proceso: 7, Proceso: 5, Proceso: 20, Proceso: 24, Proceso: 12, Proceso: 30, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 6, Proceso: 21, Proceso: 4, Proceso: 2, Proceso: 1, Proceso: 8, Proceso: 20, Proceso: 24, Proceso: 23, Proceso: 9, Proceso: 12, Proceso: 30, Proceso: 13, Proceso: 18, Proceso: 27, Proceso: 26, Proceso: 7, Proceso: 17, Proceso: 25, Proceso: 11, Proceso: 29, Proceso: 5, Proceso: 28, Proceso: 14, Proceso: 22, Proceso: 3, Proceso: 15, Proceso: 16, Proceso: 19, Proceso: 10, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 23, Proceso: 25, Proceso: 29, Proceso: 6, Proceso: 16, Proceso: 22, Proceso: 2, Proceso: 26, Proceso: 5, Proceso: 18, Proceso: 30, Proceso: 1, Proceso: 3, Proceso: 9, Proceso: 14, Proceso: 15, Proceso: 28, Proceso: 13, Proceso: 8, Proceso: 27, Proceso: 20, Proceso: 12, Proceso: 21, Proceso: 7, Proceso: 19, Proceso: 17, Proceso: 11, Proceso: 4, Proceso: 24, Proceso: 10, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 26, Proceso: 16, Proceso: 22, Proceso: 27, Proceso: 3, Proceso: 23, Proceso: 7, Proceso: 21, Proceso: 30, Proceso: 2, Proceso: 19, Proceso: 4, Proceso: 6, Proceso: 13, Proceso: 28, Proceso: 5, Proceso: 15, Proceso: 12, Proceso: 18, Proceso: 9, Proceso: 24, Proceso: 29, Proceso: 8, Proceso: 17, Proceso: 20, Proceso: 25, Proceso: 1, Proceso: 10, Proceso: 11, Proceso: 14, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 14, Proceso: 17, Proceso: 23, Proceso: 12, Proceso: 13, Proceso: 21, Proceso: 24, Proceso: 3, Proceso: 27, Proceso: 28, Proceso: 25, Proceso: 2, Proceso: 8, Proceso: 10, Proceso: 15, Proceso: 5, Proceso: 9, Proceso: 26, Proceso: 30, Proceso: 4, Proceso: 7, Proceso: 11, Proceso: 19, Proceso: 29, Proceso: 1, Proceso: 16, Proceso: 20, Proceso: 6, Proceso: 22, Proceso: 18, 
+
+media: 4339.7 ms
+moda: No se encontró
+mediana: 4873.0 ms
+
+
+Ejecución número: 2
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 15, Proceso: 16, Proceso: 3, Proceso: 29, Proceso: 10, Proceso: 12, Proceso: 5, Proceso: 19, Proceso: 26, Proceso: 13, Proceso: 27, Proceso: 11, Proceso: 6, Proceso: 4, Proceso: 28, Proceso: 21, Proceso: 14, Proceso: 23, Proceso: 22, Proceso: 17, Proceso: 2, Proceso: 7, Proceso: 30, Proceso: 18, Proceso: 24, Proceso: 20, Proceso: 25, Proceso: 9, Proceso: 8, Proceso: 1, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 13, Proceso: 19, Proceso: 17, Proceso: 10, Proceso: 3, Proceso: 7, Proceso: 18, Proceso: 14, Proceso: 21, Proceso: 30, Proceso: 24, Proceso: 20, Proceso: 1, Proceso: 5, Proceso: 9, Proceso: 11, Proceso: 15, Proceso: 23, Proceso: 4, Proceso: 16, Proceso: 22, Proceso: 8, Proceso: 28, Proceso: 27, Proceso: 26, Proceso: 12, Proceso: 29, Proceso: 6, Proceso: 2, Proceso: 25, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 4, Proceso: 9, Proceso: 18, Proceso: 20, Proceso: 29, Proceso: 21, Proceso: 22, Proceso: 25, Proceso: 8, Proceso: 16, Proceso: 24, Proceso: 19, Proceso: 13, Proceso: 17, Proceso: 26, Proceso: 1, Proceso: 3, Proceso: 12, Proceso: 27, Proceso: 14, Proceso: 15, Proceso: 7, Proceso: 11, Proceso: 2, Proceso: 23, Proceso: 28, Proceso: 30, Proceso: 10, Proceso: 5, Proceso: 6, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 19, Proceso: 30, Proceso: 28, Proceso: 29, Proceso: 20, Proceso: 4, Proceso: 9, Proceso: 26, Proceso: 2, Proceso: 7, Proceso: 3, Proceso: 23, Proceso: 8, Proceso: 13, Proceso: 16, Proceso: 6, Proceso: 14, Proceso: 15, Proceso: 17, Proceso: 1, Proceso: 5, Proceso: 18, Proceso: 10, Proceso: 24, Proceso: 25, Proceso: 27, Proceso: 21, Proceso: 22, Proceso: 11, Proceso: 12, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 26, Proceso: 29, Proceso: 17, Proceso: 4, Proceso: 11, Proceso: 13, Proceso: 20, Proceso: 8, Proceso: 21, Proceso: 30, Proceso: 7, Proceso: 24, Proceso: 22, Proceso: 5, Proceso: 18, Proceso: 23, Proceso: 1, Proceso: 2, Proceso: 3, Proceso: 19, Proceso: 28, Proceso: 6, Proceso: 12, Proceso: 27, Proceso: 16, Proceso: 14, Proceso: 15, Proceso: 25, Proceso: 10, Proceso: 9, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 4, Proceso: 12, Proceso: 26, Proceso: 3, Proceso: 25, Proceso: 28, Proceso: 20, Proceso: 22, Proceso: 27, Proceso: 21, Proceso: 13, Proceso: 7, Proceso: 9, Proceso: 15, Proceso: 17, Proceso: 5, Proceso: 19, Proceso: 24, Proceso: 2, Proceso: 10, Proceso: 1, Proceso: 14, Proceso: 16, Proceso: 6, Proceso: 11, Proceso: 18, Proceso: 8, Proceso: 29, Proceso: 23, Proceso: 30, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 14, Proceso: 9, Proceso: 23, Proceso: 8, Proceso: 19, Proceso: 20, Proceso: 3, Proceso: 28, Proceso: 4, Proceso: 18, Proceso: 30, Proceso: 7, Proceso: 10, Proceso: 12, Proceso: 16, Proceso: 2, Proceso: 13, Proceso: 6, Proceso: 21, Proceso: 29, Proceso: 5, Proceso: 17, Proceso: 24, Proceso: 25, Proceso: 1, Proceso: 11, Proceso: 22, Proceso: 15, Proceso: 27, Proceso: 26, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 5, Proceso: 14, Proceso: 13, Proceso: 22, Proceso: 12, Proceso: 23, Proceso: 28, Proceso: 29, Proceso: 19, Proceso: 30, Proceso: 16, Proceso: 18, Proceso: 24, Proceso: 25, Proceso: 3, Proceso: 20, Proceso: 26, Proceso: 10, Proceso: 15, Proceso: 1, Proceso: 7, Proceso: 9, Proceso: 27, Proceso: 2, Proceso: 6, Proceso: 8, Proceso: 11, Proceso: 21, Proceso: 4, Proceso: 17, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 4, Proceso: 23, Proceso: 24, Proceso: 5, Proceso: 7, Proceso: 18, Proceso: 30, Proceso: 9, Proceso: 12, Proceso: 21, Proceso: 29, Proceso: 10, Proceso: 3, Proceso: 8, Proceso: 1, Proceso: 2, Proceso: 28, Proceso: 19, Proceso: 26, Proceso: 20, Proceso: 25, Proceso: 6, Proceso: 14, Proceso: 13, Proceso: 16, Proceso: 27, Proceso: 15, Proceso: 17, Proceso: 11, Proceso: 22, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 16, Proceso: 8, Proceso: 1, Proceso: 29, Proceso: 25, Proceso: 9, Proceso: 3, Proceso: 4, Proceso: 14, Proceso: 7, Proceso: 2, Proceso: 11, Proceso: 15, Proceso: 22, Proceso: 26, Proceso: 13, Proceso: 24, Proceso: 17, Proceso: 19, Proceso: 20, Proceso: 27, Proceso: 10, Proceso: 28, Proceso: 18, Proceso: 30, Proceso: 6, Proceso: 12, Proceso: 5, Proceso: 23, Proceso: 21, 
+
+media: 5104.4 ms
+moda: No se encontró
+mediana: 5304.0 ms
+
+
+Ejecución número: 3
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 21, Proceso: 29, Proceso: 23, Proceso: 10, Proceso: 28, Proceso: 1, Proceso: 9, Proceso: 20, Proceso: 11, Proceso: 25, Proceso: 15, Proceso: 26, Proceso: 27, Proceso: 22, Proceso: 7, Proceso: 6, Proceso: 3, Proceso: 13, Proceso: 16, Proceso: 30, Proceso: 4, Proceso: 18, Proceso: 17, Proceso: 14, Proceso: 12, Proceso: 24, Proceso: 2, Proceso: 8, Proceso: 19, Proceso: 5, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 14, Proceso: 21, Proceso: 26, Proceso: 19, Proceso: 9, Proceso: 10, Proceso: 27, Proceso: 4, Proceso: 5, Proceso: 28, Proceso: 30, Proceso: 11, Proceso: 12, Proceso: 8, Proceso: 1, Proceso: 17, Proceso: 15, Proceso: 25, Proceso: 6, Proceso: 22, Proceso: 16, Proceso: 29, Proceso: 2, Proceso: 23, Proceso: 24, Proceso: 3, Proceso: 20, Proceso: 7, Proceso: 18, Proceso: 13, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 11, Proceso: 23, Proceso: 24, Proceso: 19, Proceso: 2, Proceso: 4, Proceso: 9, Proceso: 14, Proceso: 16, Proceso: 17, Proceso: 21, Proceso: 29, Proceso: 5, Proceso: 10, Proceso: 13, Proceso: 18, Proceso: 27, Proceso: 30, Proceso: 15, Proceso: 25, Proceso: 8, Proceso: 12, Proceso: 6, Proceso: 7, Proceso: 22, Proceso: 26, Proceso: 3, Proceso: 28, Proceso: 1, Proceso: 20, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 24, Proceso: 3, Proceso: 9, Proceso: 17, Proceso: 26, Proceso: 30, Proceso: 8, Proceso: 23, Proceso: 25, Proceso: 27, Proceso: 4, Proceso: 22, Proceso: 29, Proceso: 15, Proceso: 18, Proceso: 19, Proceso: 20, Proceso: 28, Proceso: 5, Proceso: 10, Proceso: 1, Proceso: 14, Proceso: 16, Proceso: 21, Proceso: 11, Proceso: 13, Proceso: 12, Proceso: 6, Proceso: 7, Proceso: 2, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 9, Proceso: 18, Proceso: 20, Proceso: 27, Proceso: 1, Proceso: 5, Proceso: 3, Proceso: 17, Proceso: 19, Proceso: 29, Proceso: 6, Proceso: 16, Proceso: 8, Proceso: 12, Proceso: 23, Proceso: 2, Proceso: 22, Proceso: 7, Proceso: 15, Proceso: 28, Proceso: 30, Proceso: 4, Proceso: 14, Proceso: 21, Proceso: 25, Proceso: 13, Proceso: 26, Proceso: 10, Proceso: 11, Proceso: 24, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 18, Proceso: 20, Proceso: 8, Proceso: 2, Proceso: 3, Proceso: 17, Proceso: 10, Proceso: 28, Proceso: 7, Proceso: 11, Proceso: 16, Proceso: 23, Proceso: 30, Proceso: 22, Proceso: 12, Proceso: 15, Proceso: 26, Proceso: 25, Proceso: 29, Proceso: 19, Proceso: 21, Proceso: 1, Proceso: 4, Proceso: 27, Proceso: 5, Proceso: 9, Proceso: 13, Proceso: 24, Proceso: 14, Proceso: 6, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 16, Proceso: 29, Proceso: 9, Proceso: 2, Proceso: 5, Proceso: 21, Proceso: 10, Proceso: 14, Proceso: 1, Proceso: 12, Proceso: 20, Proceso: 11, Proceso: 15, Proceso: 17, Proceso: 7, Proceso: 23, Proceso: 8, Proceso: 18, Proceso: 19, Proceso: 4, Proceso: 24, Proceso: 27, Proceso: 3, Proceso: 25, Proceso: 13, Proceso: 30, Proceso: 6, Proceso: 22, Proceso: 26, Proceso: 28, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 9, Proceso: 19, Proceso: 4, Proceso: 26, Proceso: 28, Proceso: 7, Proceso: 18, Proceso: 25, Proceso: 2, Proceso: 15, Proceso: 21, Proceso: 5, Proceso: 10, Proceso: 3, Proceso: 6, Proceso: 11, Proceso: 20, Proceso: 12, Proceso: 29, Proceso: 14, Proceso: 17, Proceso: 27, Proceso: 22, Proceso: 30, Proceso: 1, Proceso: 23, Proceso: 13, Proceso: 16, Proceso: 8, Proceso: 24, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 10, Proceso: 14, Proceso: 12, Proceso: 21, Proceso: 3, Proceso: 8, Proceso: 15, Proceso: 22, Proceso: 23, Proceso: 2, Proceso: 4, Proceso: 27, Proceso: 5, Proceso: 6, Proceso: 16, Proceso: 20, Proceso: 26, Proceso: 25, Proceso: 28, Proceso: 9, Proceso: 30, Proceso: 11, Proceso: 13, Proceso: 24, Proceso: 29, Proceso: 7, Proceso: 19, Proceso: 1, Proceso: 17, Proceso: 18, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 10, Proceso: 20, Proceso: 15, Proceso: 3, Proceso: 11, Proceso: 14, Proceso: 16, Proceso: 4, Proceso: 19, Proceso: 9, Proceso: 30, Proceso: 23, Proceso: 24, Proceso: 6, Proceso: 13, Proceso: 12, Proceso: 21, Proceso: 25, Proceso: 28, Proceso: 29, Proceso: 5, Proceso: 1, Proceso: 27, Proceso: 18, Proceso: 2, Proceso: 17, Proceso: 7, Proceso: 22, Proceso: 26, Proceso: 8, 
+
+media: 3258.2 ms
+moda: No se encontró
+mediana: 2053.0 ms
+
+
+Ejecución número: 4
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 8, Proceso: 1, Proceso: 10, Proceso: 2, Proceso: 7, Proceso: 13, Proceso: 6, Proceso: 16, Proceso: 5, Proceso: 17, Proceso: 25, Proceso: 30, Proceso: 19, Proceso: 15, Proceso: 28, Proceso: 29, Proceso: 20, Proceso: 11, Proceso: 23, Proceso: 18, Proceso: 24, Proceso: 26, Proceso: 4, Proceso: 27, Proceso: 12, Proceso: 9, Proceso: 21, Proceso: 14, Proceso: 3, Proceso: 22, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 6, Proceso: 29, Proceso: 3, Proceso: 30, Proceso: 9, Proceso: 1, Proceso: 2, Proceso: 8, Proceso: 25, Proceso: 5, Proceso: 23, Proceso: 4, Proceso: 10, Proceso: 13, Proceso: 20, Proceso: 22, Proceso: 15, Proceso: 18, Proceso: 28, Proceso: 19, Proceso: 7, Proceso: 27, Proceso: 21, Proceso: 24, Proceso: 11, Proceso: 26, Proceso: 12, Proceso: 14, Proceso: 16, Proceso: 17, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 11, Proceso: 3, Proceso: 19, Proceso: 2, Proceso: 1, Proceso: 18, Proceso: 10, Proceso: 29, Proceso: 15, Proceso: 24, Proceso: 14, Proceso: 16, Proceso: 8, Proceso: 22, Proceso: 7, Proceso: 20, Proceso: 9, Proceso: 6, Proceso: 28, Proceso: 12, Proceso: 17, Proceso: 5, Proceso: 25, Proceso: 21, Proceso: 26, Proceso: 13, Proceso: 4, Proceso: 23, Proceso: 30, Proceso: 27, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 23, Proceso: 11, Proceso: 1, Proceso: 16, Proceso: 26, Proceso: 22, Proceso: 4, Proceso: 7, Proceso: 24, Proceso: 27, Proceso: 3, Proceso: 30, Proceso: 17, Proceso: 20, Proceso: 12, Proceso: 13, Proceso: 19, Proceso: 28, Proceso: 29, Proceso: 6, Proceso: 15, Proceso: 5, Proceso: 9, Proceso: 21, Proceso: 25, Proceso: 2, Proceso: 10, Proceso: 8, Proceso: 14, Proceso: 18, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 1, Proceso: 23, Proceso: 8, Proceso: 19, Proceso: 17, Proceso: 25, Proceso: 3, Proceso: 30, Proceso: 18, Proceso: 24, Proceso: 9, Proceso: 21, Proceso: 26, Proceso: 27, Proceso: 7, Proceso: 10, Proceso: 28, Proceso: 4, Proceso: 20, Proceso: 15, Proceso: 2, Proceso: 22, Proceso: 29, Proceso: 13, Proceso: 14, Proceso: 11, Proceso: 16, Proceso: 6, Proceso: 12, Proceso: 5, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 9, Proceso: 11, Proceso: 27, Proceso: 5, Proceso: 4, Proceso: 7, Proceso: 10, Proceso: 3, Proceso: 12, Proceso: 22, Proceso: 26, Proceso: 2, Proceso: 8, Proceso: 6, Proceso: 25, Proceso: 14, Proceso: 24, Proceso: 17, Proceso: 28, Proceso: 19, Proceso: 30, Proceso: 18, Proceso: 15, Proceso: 20, Proceso: 23, Proceso: 29, Proceso: 13, Proceso: 1, Proceso: 21, Proceso: 16, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 30, Proceso: 27, Proceso: 11, Proceso: 25, Proceso: 10, Proceso: 16, Proceso: 15, Proceso: 28, Proceso: 7, Proceso: 26, Proceso: 19, Proceso: 22, Proceso: 14, Proceso: 29, Proceso: 17, Proceso: 2, Proceso: 3, Proceso: 1, Proceso: 20, Proceso: 6, Proceso: 4, Proceso: 9, Proceso: 5, Proceso: 12, Proceso: 24, Proceso: 21, Proceso: 13, Proceso: 23, Proceso: 8, Proceso: 18, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 26, Proceso: 8, Proceso: 29, Proceso: 15, Proceso: 24, Proceso: 30, Proceso: 14, Proceso: 16, Proceso: 17, Proceso: 22, Proceso: 23, Proceso: 9, Proceso: 12, Proceso: 4, Proceso: 18, Proceso: 27, Proceso: 2, Proceso: 7, Proceso: 10, Proceso: 20, Proceso: 1, Proceso: 28, Proceso: 21, Proceso: 13, Proceso: 25, Proceso: 3, Proceso: 11, Proceso: 19, Proceso: 5, Proceso: 6, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 20, Proceso: 28, Proceso: 2, Proceso: 5, Proceso: 21, Proceso: 26, Proceso: 4, Proceso: 27, Proceso: 1, Proceso: 22, Proceso: 24, Proceso: 29, Proceso: 17, Proceso: 13, Proceso: 6, Proceso: 16, Proceso: 14, Proceso: 3, Proceso: 18, Proceso: 30, Proceso: 23, Proceso: 8, Proceso: 9, Proceso: 15, Proceso: 11, Proceso: 12, Proceso: 10, Proceso: 19, Proceso: 25, Proceso: 7, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 10, Proceso: 11, Proceso: 2, Proceso: 15, Proceso: 21, Proceso: 30, Proceso: 4, Proceso: 7, Proceso: 12, Proceso: 26, Proceso: 20, Proceso: 24, Proceso: 25, Proceso: 16, Proceso: 28, Proceso: 3, Proceso: 5, Proceso: 8, Proceso: 23, Proceso: 22, Proceso: 13, Proceso: 14, Proceso: 19, Proceso: 1, Proceso: 9, Proceso: 29, Proceso: 18, Proceso: 27, Proceso: 6, Proceso: 17, 
+
+media: 8513.4 ms
+moda: No se encontró
+mediana: 8812.0 ms
+
+
+Ejecución número: 5
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 23, Proceso: 9, Proceso: 7, Proceso: 13, Proceso: 19, Proceso: 4, Proceso: 6, Proceso: 11, Proceso: 10, Proceso: 1, Proceso: 24, Proceso: 15, Proceso: 21, Proceso: 29, Proceso: 17, Proceso: 18, Proceso: 12, Proceso: 26, Proceso: 3, Proceso: 20, Proceso: 30, Proceso: 2, Proceso: 8, Proceso: 22, Proceso: 5, Proceso: 16, Proceso: 27, Proceso: 28, Proceso: 14, Proceso: 25, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 28, Proceso: 25, Proceso: 2, Proceso: 30, Proceso: 8, Proceso: 6, Proceso: 9, Proceso: 29, Proceso: 27, Proceso: 13, Proceso: 24, Proceso: 20, Proceso: 14, Proceso: 15, Proceso: 17, Proceso: 19, Proceso: 1, Proceso: 18, Proceso: 3, Proceso: 10, Proceso: 23, Proceso: 5, Proceso: 12, Proceso: 21, Proceso: 7, Proceso: 11, Proceso: 26, Proceso: 4, Proceso: 22, Proceso: 16, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 18, Proceso: 30, Proceso: 16, Proceso: 20, Proceso: 21, Proceso: 4, Proceso: 10, Proceso: 6, Proceso: 8, Proceso: 22, Proceso: 15, Proceso: 14, Proceso: 9, Proceso: 12, Proceso: 23, Proceso: 25, Proceso: 1, Proceso: 27, Proceso: 11, Proceso: 2, Proceso: 24, Proceso: 29, Proceso: 13, Proceso: 28, Proceso: 17, Proceso: 19, Proceso: 26, Proceso: 5, Proceso: 7, Proceso: 3, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 4, Proceso: 11, Proceso: 1, Proceso: 30, Proceso: 12, Proceso: 19, Proceso: 13, Proceso: 26, Proceso: 29, Proceso: 10, Proceso: 25, Proceso: 15, Proceso: 20, Proceso: 16, Proceso: 23, Proceso: 2, Proceso: 28, Proceso: 27, Proceso: 14, Proceso: 3, Proceso: 8, Proceso: 9, Proceso: 17, Proceso: 6, Proceso: 21, Proceso: 18, Proceso: 24, Proceso: 7, Proceso: 5, Proceso: 22, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 8, Proceso: 25, Proceso: 3, Proceso: 13, Proceso: 23, Proceso: 29, Proceso: 7, Proceso: 9, Proceso: 12, Proceso: 24, Proceso: 22, Proceso: 20, Proceso: 30, Proceso: 6, Proceso: 10, Proceso: 16, Proceso: 28, Proceso: 14, Proceso: 17, Proceso: 21, Proceso: 11, Proceso: 18, Proceso: 26, Proceso: 2, Proceso: 19, Proceso: 5, Proceso: 4, Proceso: 15, Proceso: 1, Proceso: 27, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 20, Proceso: 4, Proceso: 24, Proceso: 29, Proceso: 8, Proceso: 2, Proceso: 7, Proceso: 13, Proceso: 5, Proceso: 9, Proceso: 10, Proceso: 19, Proceso: 11, Proceso: 21, Proceso: 27, Proceso: 3, Proceso: 12, Proceso: 14, Proceso: 30, Proceso: 1, Proceso: 15, Proceso: 28, Proceso: 23, Proceso: 17, Proceso: 22, Proceso: 16, Proceso: 18, Proceso: 6, Proceso: 25, Proceso: 26, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 1, Proceso: 12, Proceso: 8, Proceso: 23, Proceso: 22, Proceso: 3, Proceso: 2, Proceso: 14, Proceso: 26, Proceso: 21, Proceso: 27, Proceso: 10, Proceso: 18, Proceso: 25, Proceso: 4, Proceso: 7, Proceso: 19, Proceso: 24, Proceso: 6, Proceso: 16, Proceso: 30, Proceso: 15, Proceso: 28, Proceso: 20, Proceso: 5, Proceso: 9, Proceso: 13, Proceso: 29, Proceso: 11, Proceso: 17, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 9, Proceso: 1, Proceso: 18, Proceso: 29, Proceso: 11, Proceso: 23, Proceso: 21, Proceso: 10, Proceso: 14, Proceso: 15, Proceso: 19, Proceso: 2, Proceso: 6, Proceso: 20, Proceso: 3, Proceso: 7, Proceso: 5, Proceso: 17, Proceso: 26, Proceso: 24, Proceso: 12, Proceso: 16, Proceso: 22, Proceso: 30, Proceso: 4, Proceso: 13, Proceso: 8, Proceso: 28, Proceso: 25, Proceso: 27, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 15, Proceso: 28, Proceso: 12, Proceso: 18, Proceso: 29, Proceso: 1, Proceso: 9, Proceso: 22, Proceso: 7, Proceso: 14, Proceso: 16, Proceso: 20, Proceso: 23, Proceso: 25, Proceso: 11, Proceso: 13, Proceso: 17, Proceso: 21, Proceso: 24, Proceso: 4, Proceso: 26, Proceso: 5, Proceso: 6, Proceso: 10, Proceso: 8, Proceso: 27, Proceso: 2, Proceso: 3, Proceso: 19, Proceso: 30, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 7, Proceso: 22, Proceso: 29, Proceso: 15, Proceso: 24, Proceso: 3, Proceso: 4, Proceso: 12, Proceso: 13, Proceso: 1, Proceso: 16, Proceso: 26, Proceso: 20, Proceso: 8, Proceso: 18, Proceso: 23, Proceso: 10, Proceso: 14, Proceso: 27, Proceso: 28, Proceso: 6, Proceso: 17, Proceso: 19, Proceso: 30, Proceso: 2, Proceso: 5, Proceso: 21, Proceso: 25, Proceso: 11, Proceso: 9, 
+
+media: 4299.1 ms
+moda: No se encontró
+mediana: 4589.0 ms
+
+
+Ejecución número: 6
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 10, Proceso: 18, Proceso: 13, Proceso: 16, Proceso: 1, Proceso: 30, Proceso: 17, Proceso: 27, Proceso: 7, Proceso: 14, Proceso: 26, Proceso: 6, Proceso: 12, Proceso: 9, Proceso: 3, Proceso: 24, Proceso: 8, Proceso: 25, Proceso: 15, Proceso: 19, Proceso: 20, Proceso: 28, Proceso: 21, Proceso: 5, Proceso: 22, Proceso: 2, Proceso: 11, Proceso: 4, Proceso: 23, Proceso: 29, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 4, Proceso: 22, Proceso: 24, Proceso: 29, Proceso: 23, Proceso: 3, Proceso: 7, Proceso: 19, Proceso: 2, Proceso: 17, Proceso: 1, Proceso: 10, Proceso: 26, Proceso: 6, Proceso: 21, Proceso: 5, Proceso: 13, Proceso: 11, Proceso: 20, Proceso: 15, Proceso: 25, Proceso: 28, Proceso: 9, Proceso: 16, Proceso: 18, Proceso: 8, Proceso: 12, Proceso: 30, Proceso: 27, Proceso: 14, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 20, Proceso: 29, Proceso: 4, Proceso: 25, Proceso: 5, Proceso: 8, Proceso: 16, Proceso: 17, Proceso: 18, Proceso: 7, Proceso: 23, Proceso: 26, Proceso: 28, Proceso: 3, Proceso: 12, Proceso: 22, Proceso: 21, Proceso: 6, Proceso: 13, Proceso: 9, Proceso: 10, Proceso: 19, Proceso: 11, Proceso: 14, Proceso: 2, Proceso: 30, Proceso: 15, Proceso: 1, Proceso: 27, Proceso: 24, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 15, Proceso: 8, Proceso: 13, Proceso: 17, Proceso: 6, Proceso: 24, Proceso: 1, Proceso: 12, Proceso: 11, Proceso: 25, Proceso: 2, Proceso: 21, Proceso: 27, Proceso: 9, Proceso: 10, Proceso: 23, Proceso: 7, Proceso: 19, Proceso: 5, Proceso: 16, Proceso: 26, Proceso: 3, Proceso: 4, Proceso: 14, Proceso: 22, Proceso: 30, Proceso: 18, Proceso: 20, Proceso: 29, Proceso: 28, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 1, Proceso: 17, Proceso: 20, Proceso: 30, Proceso: 12, Proceso: 8, Proceso: 16, Proceso: 18, Proceso: 19, Proceso: 9, Proceso: 28, Proceso: 7, Proceso: 24, Proceso: 6, Proceso: 23, Proceso: 2, Proceso: 10, Proceso: 25, Proceso: 21, Proceso: 11, Proceso: 13, Proceso: 3, Proceso: 15, Proceso: 29, Proceso: 4, Proceso: 22, Proceso: 5, Proceso: 26, Proceso: 27, Proceso: 14, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 20, Proceso: 1, Proceso: 10, Proceso: 8, Proceso: 6, Proceso: 29, Proceso: 7, Proceso: 15, Proceso: 26, Proceso: 3, Proceso: 9, Proceso: 22, Proceso: 19, Proceso: 24, Proceso: 12, Proceso: 13, Proceso: 4, Proceso: 23, Proceso: 5, Proceso: 27, Proceso: 28, Proceso: 18, Proceso: 25, Proceso: 30, Proceso: 21, Proceso: 14, Proceso: 17, Proceso: 16, Proceso: 2, Proceso: 11, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 25, Proceso: 19, Proceso: 15, Proceso: 7, Proceso: 13, Proceso: 28, Proceso: 30, Proceso: 21, Proceso: 24, Proceso: 12, Proceso: 26, Proceso: 10, Proceso: 18, Proceso: 20, Proceso: 9, Proceso: 17, Proceso: 23, Proceso: 11, Proceso: 22, Proceso: 14, Proceso: 29, Proceso: 16, Proceso: 3, Proceso: 6, Proceso: 4, Proceso: 8, Proceso: 2, Proceso: 5, Proceso: 27, Proceso: 1, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 7, Proceso: 14, Proceso: 4, Proceso: 26, Proceso: 28, Proceso: 18, Proceso: 21, Proceso: 22, Proceso: 25, Proceso: 12, Proceso: 23, Proceso: 24, Proceso: 8, Proceso: 13, Proceso: 15, Proceso: 16, Proceso: 3, Proceso: 19, Proceso: 29, Proceso: 6, Proceso: 2, Proceso: 11, Proceso: 30, Proceso: 9, Proceso: 20, Proceso: 5, Proceso: 17, Proceso: 27, Proceso: 1, Proceso: 10, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 8, Proceso: 18, Proceso: 1, Proceso: 2, Proceso: 23, Proceso: 22, Proceso: 29, Proceso: 5, Proceso: 19, Proceso: 6, Proceso: 10, Proceso: 21, Proceso: 24, Proceso: 3, Proceso: 7, Proceso: 25, Proceso: 30, Proceso: 15, Proceso: 12, Proceso: 26, Proceso: 9, Proceso: 20, Proceso: 27, Proceso: 28, Proceso: 13, Proceso: 4, Proceso: 17, Proceso: 11, Proceso: 14, Proceso: 16, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 10, Proceso: 5, Proceso: 12, Proceso: 29, Proceso: 30, Proceso: 4, Proceso: 25, Proceso: 26, Proceso: 9, Proceso: 17, Proceso: 27, Proceso: 20, Proceso: 13, Proceso: 15, Proceso: 23, Proceso: 19, Proceso: 28, Proceso: 7, Proceso: 14, Proceso: 21, Proceso: 22, Proceso: 6, Proceso: 24, Proceso: 2, Proceso: 11, Proceso: 3, Proceso: 16, Proceso: 8, Proceso: 1, Proceso: 18, 
+
+media: 5437.1 ms
+moda: No se encontró
+mediana: 5443.0 ms
+
+
+Ejecución número: 7
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 2, Proceso: 3, Proceso: 1, Proceso: 19, Proceso: 24, Proceso: 18, Proceso: 26, Proceso: 6, Proceso: 10, Proceso: 14, Proceso: 15, Proceso: 21, Proceso: 17, Proceso: 9, Proceso: 11, Proceso: 8, Proceso: 29, Proceso: 4, Proceso: 7, Proceso: 27, Proceso: 22, Proceso: 25, Proceso: 5, Proceso: 12, Proceso: 13, Proceso: 20, Proceso: 30, Proceso: 28, Proceso: 16, Proceso: 23, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 5, Proceso: 17, Proceso: 1, Proceso: 15, Proceso: 26, Proceso: 9, Proceso: 19, Proceso: 28, Proceso: 4, Proceso: 11, Proceso: 12, Proceso: 13, Proceso: 18, Proceso: 23, Proceso: 20, Proceso: 16, Proceso: 10, Proceso: 24, Proceso: 27, Proceso: 7, Proceso: 25, Proceso: 29, Proceso: 22, Proceso: 8, Proceso: 14, Proceso: 30, Proceso: 6, Proceso: 3, Proceso: 21, Proceso: 2, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 12, Proceso: 21, Proceso: 5, Proceso: 10, Proceso: 24, Proceso: 7, Proceso: 17, Proceso: 6, Proceso: 18, Proceso: 16, Proceso: 4, Proceso: 8, Proceso: 15, Proceso: 2, Proceso: 25, Proceso: 9, Proceso: 14, Proceso: 23, Proceso: 19, Proceso: 27, Proceso: 26, Proceso: 22, Proceso: 20, Proceso: 13, Proceso: 29, Proceso: 11, Proceso: 30, Proceso: 3, Proceso: 1, Proceso: 28, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 18, Proceso: 9, Proceso: 23, Proceso: 26, Proceso: 2, Proceso: 4, Proceso: 6, Proceso: 12, Proceso: 16, Proceso: 24, Proceso: 30, Proceso: 1, Proceso: 3, Proceso: 14, Proceso: 19, Proceso: 28, Proceso: 17, Proceso: 27, Proceso: 29, Proceso: 21, Proceso: 13, Proceso: 20, Proceso: 15, Proceso: 22, Proceso: 8, Proceso: 25, Proceso: 11, Proceso: 7, Proceso: 10, Proceso: 5, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 27, Proceso: 23, Proceso: 24, Proceso: 11, Proceso: 8, Proceso: 9, Proceso: 21, Proceso: 10, Proceso: 14, Proceso: 19, Proceso: 22, Proceso: 26, Proceso: 30, Proceso: 5, Proceso: 15, Proceso: 16, Proceso: 25, Proceso: 29, Proceso: 3, Proceso: 4, Proceso: 12, Proceso: 2, Proceso: 6, Proceso: 1, Proceso: 17, Proceso: 18, Proceso: 20, Proceso: 28, Proceso: 13, Proceso: 7, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 12, Proceso: 14, Proceso: 28, Proceso: 21, Proceso: 23, Proceso: 30, Proceso: 10, Proceso: 22, Proceso: 24, Proceso: 15, Proceso: 18, Proceso: 25, Proceso: 26, Proceso: 4, Proceso: 17, Proceso: 27, Proceso: 8, Proceso: 9, Proceso: 11, Proceso: 19, Proceso: 29, Proceso: 2, Proceso: 7, Proceso: 5, Proceso: 16, Proceso: 20, Proceso: 1, Proceso: 3, Proceso: 13, Proceso: 6, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 12, Proceso: 20, Proceso: 3, Proceso: 15, Proceso: 8, Proceso: 14, Proceso: 22, Proceso: 28, Proceso: 1, Proceso: 7, Proceso: 10, Proceso: 11, Proceso: 13, Proceso: 4, Proceso: 16, Proceso: 29, Proceso: 2, Proceso: 5, Proceso: 26, Proceso: 30, Proceso: 9, Proceso: 6, Proceso: 17, Proceso: 23, Proceso: 25, Proceso: 27, Proceso: 21, Proceso: 18, Proceso: 19, Proceso: 24, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 27, Proceso: 7, Proceso: 11, Proceso: 23, Proceso: 9, Proceso: 12, Proceso: 15, Proceso: 19, Proceso: 20, Proceso: 21, Proceso: 28, Proceso: 13, Proceso: 16, Proceso: 29, Proceso: 2, Proceso: 6, Proceso: 24, Proceso: 10, Proceso: 3, Proceso: 5, Proceso: 18, Proceso: 30, Proceso: 8, Proceso: 26, Proceso: 1, Proceso: 22, Proceso: 25, Proceso: 4, Proceso: 17, Proceso: 14, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 2, Proceso: 14, Proceso: 23, Proceso: 7, Proceso: 12, Proceso: 11, Proceso: 13, Proceso: 9, Proceso: 22, Proceso: 29, Proceso: 30, Proceso: 1, Proceso: 18, Proceso: 3, Proceso: 6, Proceso: 15, Proceso: 17, Proceso: 19, Proceso: 20, Proceso: 4, Proceso: 21, Proceso: 26, Proceso: 28, Proceso: 8, Proceso: 16, Proceso: 10, Proceso: 24, Proceso: 27, Proceso: 5, Proceso: 25, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 27, Proceso: 4, Proceso: 10, Proceso: 18, Proceso: 22, Proceso: 24, Proceso: 7, Proceso: 26, Proceso: 30, Proceso: 2, Proceso: 9, Proceso: 14, Proceso: 3, Proceso: 25, Proceso: 11, Proceso: 12, Proceso: 23, Proceso: 28, Proceso: 13, Proceso: 16, Proceso: 19, Proceso: 20, Proceso: 29, Proceso: 8, Proceso: 5, Proceso: 21, Proceso: 17, Proceso: 6, Proceso: 1, Proceso: 15, 
+
+media: 5525.0 ms
+moda: 1985 ms
+mediana: 2112.0 ms
+
+
+Ejecución número: 8
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 8, Proceso: 19, Proceso: 24, Proceso: 30, Proceso: 25, Proceso: 5, Proceso: 17, Proceso: 11, Proceso: 23, Proceso: 6, Proceso: 21, Proceso: 1, Proceso: 3, Proceso: 13, Proceso: 27, Proceso: 28, Proceso: 16, Proceso: 20, Proceso: 14, Proceso: 2, Proceso: 26, Proceso: 29, Proceso: 18, Proceso: 22, Proceso: 10, Proceso: 7, Proceso: 9, Proceso: 12, Proceso: 4, Proceso: 15, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 17, Proceso: 20, Proceso: 13, Proceso: 6, Proceso: 8, Proceso: 5, Proceso: 22, Proceso: 25, Proceso: 15, Proceso: 1, Proceso: 16, Proceso: 19, Proceso: 4, Proceso: 12, Proceso: 11, Proceso: 24, Proceso: 9, Proceso: 26, Proceso: 30, Proceso: 10, Proceso: 14, Proceso: 23, Proceso: 7, Proceso: 3, Proceso: 18, Proceso: 28, Proceso: 21, Proceso: 2, Proceso: 27, Proceso: 29, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 7, Proceso: 1, Proceso: 10, Proceso: 15, Proceso: 11, Proceso: 27, Proceso: 19, Proceso: 18, Proceso: 28, Proceso: 22, Proceso: 17, Proceso: 13, Proceso: 4, Proceso: 12, Proceso: 25, Proceso: 5, Proceso: 21, Proceso: 16, Proceso: 29, Proceso: 23, Proceso: 14, Proceso: 20, Proceso: 24, Proceso: 26, Proceso: 30, Proceso: 3, Proceso: 2, Proceso: 9, Proceso: 6, Proceso: 8, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 5, Proceso: 20, Proceso: 29, Proceso: 22, Proceso: 19, Proceso: 12, Proceso: 23, Proceso: 17, Proceso: 25, Proceso: 24, Proceso: 3, Proceso: 14, Proceso: 16, Proceso: 9, Proceso: 18, Proceso: 21, Proceso: 4, Proceso: 26, Proceso: 13, Proceso: 7, Proceso: 28, Proceso: 1, Proceso: 30, Proceso: 27, Proceso: 8, Proceso: 2, Proceso: 15, Proceso: 11, Proceso: 6, Proceso: 10, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 7, Proceso: 29, Proceso: 12, Proceso: 8, Proceso: 9, Proceso: 21, Proceso: 25, Proceso: 22, Proceso: 1, Proceso: 24, Proceso: 6, Proceso: 20, Proceso: 14, Proceso: 19, Proceso: 15, Proceso: 2, Proceso: 26, Proceso: 11, Proceso: 17, Proceso: 13, Proceso: 18, Proceso: 3, Proceso: 28, Proceso: 30, Proceso: 5, Proceso: 23, Proceso: 16, Proceso: 27, Proceso: 4, Proceso: 10, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 17, Proceso: 6, Proceso: 2, Proceso: 27, Proceso: 14, Proceso: 24, Proceso: 28, Proceso: 26, Proceso: 29, Proceso: 5, Proceso: 12, Proceso: 30, Proceso: 23, Proceso: 18, Proceso: 22, Proceso: 21, Proceso: 25, Proceso: 19, Proceso: 4, Proceso: 16, Proceso: 7, Proceso: 1, Proceso: 20, Proceso: 10, Proceso: 11, Proceso: 13, Proceso: 3, Proceso: 8, Proceso: 15, Proceso: 9, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 2, Proceso: 16, Proceso: 6, Proceso: 28, Proceso: 18, Proceso: 9, Proceso: 25, Proceso: 21, Proceso: 22, Proceso: 23, Proceso: 12, Proceso: 11, Proceso: 19, Proceso: 10, Proceso: 20, Proceso: 26, Proceso: 1, Proceso: 27, Proceso: 3, Proceso: 8, Proceso: 13, Proceso: 30, Proceso: 4, Proceso: 15, Proceso: 29, Proceso: 24, Proceso: 5, Proceso: 14, Proceso: 17, Proceso: 7, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 11, Proceso: 3, Proceso: 7, Proceso: 25, Proceso: 1, Proceso: 13, Proceso: 12, Proceso: 5, Proceso: 27, Proceso: 4, Proceso: 14, Proceso: 2, Proceso: 30, Proceso: 24, Proceso: 9, Proceso: 8, Proceso: 15, Proceso: 26, Proceso: 17, Proceso: 18, Proceso: 10, Proceso: 23, Proceso: 21, Proceso: 16, Proceso: 28, Proceso: 29, Proceso: 22, Proceso: 19, Proceso: 20, Proceso: 6, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 1, Proceso: 13, Proceso: 16, Proceso: 17, Proceso: 19, Proceso: 20, Proceso: 24, Proceso: 27, Proceso: 8, Proceso: 26, Proceso: 15, Proceso: 22, Proceso: 25, Proceso: 28, Proceso: 2, Proceso: 5, Proceso: 7, Proceso: 23, Proceso: 4, Proceso: 10, Proceso: 12, Proceso: 29, Proceso: 3, Proceso: 14, Proceso: 18, Proceso: 11, Proceso: 21, Proceso: 30, Proceso: 9, Proceso: 6, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 11, Proceso: 17, Proceso: 4, Proceso: 14, Proceso: 27, Proceso: 3, Proceso: 15, Proceso: 16, Proceso: 26, Proceso: 2, Proceso: 5, Proceso: 9, Proceso: 25, Proceso: 30, Proceso: 1, Proceso: 21, Proceso: 24, Proceso: 6, Proceso: 10, Proceso: 12, Proceso: 13, Proceso: 20, Proceso: 22, Proceso: 7, Proceso: 18, Proceso: 23, Proceso: 29, Proceso: 8, Proceso: 28, Proceso: 19, 
+
+media: 13052.5 ms
+moda: No se encontró
+mediana: 16615.0 ms
+
+
+Ejecución número: 9
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 25, Proceso: 27, Proceso: 4, Proceso: 28, Proceso: 23, Proceso: 1, Proceso: 21, Proceso: 17, Proceso: 14, Proceso: 12, Proceso: 29, Proceso: 30, Proceso: 10, Proceso: 3, Proceso: 13, Proceso: 19, Proceso: 8, Proceso: 15, Proceso: 6, Proceso: 24, Proceso: 11, Proceso: 16, Proceso: 18, Proceso: 7, Proceso: 20, Proceso: 22, Proceso: 26, Proceso: 2, Proceso: 5, Proceso: 9, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 13, Proceso: 21, Proceso: 2, Proceso: 29, Proceso: 7, Proceso: 15, Proceso: 24, Proceso: 17, Proceso: 22, Proceso: 28, Proceso: 18, Proceso: 19, Proceso: 4, Proceso: 11, Proceso: 16, Proceso: 1, Proceso: 3, Proceso: 8, Proceso: 6, Proceso: 10, Proceso: 25, Proceso: 26, Proceso: 12, Proceso: 14, Proceso: 5, Proceso: 27, Proceso: 30, Proceso: 9, Proceso: 23, Proceso: 20, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 16, Proceso: 30, Proceso: 21, Proceso: 3, Proceso: 7, Proceso: 5, Proceso: 8, Proceso: 14, Proceso: 29, Proceso: 15, Proceso: 25, Proceso: 22, Proceso: 26, Proceso: 24, Proceso: 6, Proceso: 10, Proceso: 23, Proceso: 27, Proceso: 17, Proceso: 18, Proceso: 2, Proceso: 9, Proceso: 28, Proceso: 12, Proceso: 1, Proceso: 19, Proceso: 11, Proceso: 20, Proceso: 4, Proceso: 13, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 9, Proceso: 1, Proceso: 23, Proceso: 27, Proceso: 13, Proceso: 10, Proceso: 16, Proceso: 24, Proceso: 19, Proceso: 21, Proceso: 25, Proceso: 3, Proceso: 20, Proceso: 26, Proceso: 15, Proceso: 30, Proceso: 17, Proceso: 2, Proceso: 14, Proceso: 11, Proceso: 6, Proceso: 8, Proceso: 5, Proceso: 18, Proceso: 4, Proceso: 22, Proceso: 12, Proceso: 28, Proceso: 29, Proceso: 7, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 23, Proceso: 28, Proceso: 1, Proceso: 8, Proceso: 16, Proceso: 3, Proceso: 4, Proceso: 20, Proceso: 17, Proceso: 26, Proceso: 18, Proceso: 7, Proceso: 13, Proceso: 27, Proceso: 2, Proceso: 5, Proceso: 24, Proceso: 11, Proceso: 15, Proceso: 25, Proceso: 12, Proceso: 14, Proceso: 22, Proceso: 19, Proceso: 6, Proceso: 10, Proceso: 21, Proceso: 29, Proceso: 30, Proceso: 9, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 10, Proceso: 9, Proceso: 30, Proceso: 29, Proceso: 28, Proceso: 27, Proceso: 12, Proceso: 15, Proceso: 6, Proceso: 26, Proceso: 17, Proceso: 24, Proceso: 13, Proceso: 21, Proceso: 7, Proceso: 11, Proceso: 14, Proceso: 16, Proceso: 23, Proceso: 2, Proceso: 5, Proceso: 19, Proceso: 18, Proceso: 20, Proceso: 25, Proceso: 1, Proceso: 22, Proceso: 4, Proceso: 8, Proceso: 3, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 9, Proceso: 18, Proceso: 2, Proceso: 8, Proceso: 1, Proceso: 3, Proceso: 13, Proceso: 23, Proceso: 20, Proceso: 25, Proceso: 24, Proceso: 21, Proceso: 7, Proceso: 22, Proceso: 12, Proceso: 6, Proceso: 5, Proceso: 28, Proceso: 16, Proceso: 19, Proceso: 30, Proceso: 14, Proceso: 27, Proceso: 11, Proceso: 26, Proceso: 17, Proceso: 29, Proceso: 15, Proceso: 10, Proceso: 4, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 23, Proceso: 21, Proceso: 10, Proceso: 1, Proceso: 24, Proceso: 30, Proceso: 19, Proceso: 12, Proceso: 20, Proceso: 13, Proceso: 26, Proceso: 22, Proceso: 9, Proceso: 6, Proceso: 29, Proceso: 15, Proceso: 4, Proceso: 16, Proceso: 5, Proceso: 14, Proceso: 8, Proceso: 25, Proceso: 18, Proceso: 2, Proceso: 3, Proceso: 28, Proceso: 27, Proceso: 17, Proceso: 11, Proceso: 7, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 8, Proceso: 19, Proceso: 18, Proceso: 21, Proceso: 5, Proceso: 12, Proceso: 15, Proceso: 4, Proceso: 11, Proceso: 16, Proceso: 28, Proceso: 7, Proceso: 2, Proceso: 14, Proceso: 6, Proceso: 10, Proceso: 27, Proceso: 25, Proceso: 9, Proceso: 29, Proceso: 20, Proceso: 23, Proceso: 30, Proceso: 3, Proceso: 13, Proceso: 24, Proceso: 26, Proceso: 17, Proceso: 22, Proceso: 1, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 21, Proceso: 22, Proceso: 9, Proceso: 14, Proceso: 25, Proceso: 20, Proceso: 5, Proceso: 7, Proceso: 10, Proceso: 26, Proceso: 18, Proceso: 6, Proceso: 30, Proceso: 8, Proceso: 29, Proceso: 28, Proceso: 1, Proceso: 27, Proceso: 4, Proceso: 12, Proceso: 3, Proceso: 19, Proceso: 13, Proceso: 24, Proceso: 15, Proceso: 17, Proceso: 23, Proceso: 16, Proceso: 2, Proceso: 11, 
+
+media: 7990.9 ms
+moda: 7871 ms
+mediana: 7951.0 ms
+
+
+Ejecución número: 10
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 11, Proceso: 5, Proceso: 15, Proceso: 27, Proceso: 7, Proceso: 12, Proceso: 14, Proceso: 21, Proceso: 28, Proceso: 1, Proceso: 9, Proceso: 18, Proceso: 8, Proceso: 13, Proceso: 25, Proceso: 29, Proceso: 19, Proceso: 30, Proceso: 24, Proceso: 2, Proceso: 3, Proceso: 22, Proceso: 23, Proceso: 20, Proceso: 6, Proceso: 4, Proceso: 17, Proceso: 26, Proceso: 16, Proceso: 10, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 13, Proceso: 6, Proceso: 11, Proceso: 22, Proceso: 12, Proceso: 15, Proceso: 16, Proceso: 3, Proceso: 7, Proceso: 21, Proceso: 19, Proceso: 23, Proceso: 5, Proceso: 24, Proceso: 17, Proceso: 9, Proceso: 29, Proceso: 28, Proceso: 1, Proceso: 25, Proceso: 4, Proceso: 10, Proceso: 20, Proceso: 26, Proceso: 27, Proceso: 30, Proceso: 14, Proceso: 2, Proceso: 8, Proceso: 18, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 16, Proceso: 9, Proceso: 10, Proceso: 12, Proceso: 17, Proceso: 29, Proceso: 13, Proceso: 20, Proceso: 30, Proceso: 5, Proceso: 14, Proceso: 3, Proceso: 6, Proceso: 19, Proceso: 23, Proceso: 27, Proceso: 18, Proceso: 22, Proceso: 11, Proceso: 15, Proceso: 24, Proceso: 26, Proceso: 21, Proceso: 7, Proceso: 2, Proceso: 4, Proceso: 1, Proceso: 28, Proceso: 8, Proceso: 25, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 3, Proceso: 1, Proceso: 13, Proceso: 19, Proceso: 27, Proceso: 5, Proceso: 28, Proceso: 10, Proceso: 16, Proceso: 17, Proceso: 20, Proceso: 30, Proceso: 21, Proceso: 26, Proceso: 22, Proceso: 2, Proceso: 11, Proceso: 12, Proceso: 6, Proceso: 24, Proceso: 18, Proceso: 8, Proceso: 7, Proceso: 9, Proceso: 23, Proceso: 29, Proceso: 4, Proceso: 25, Proceso: 15, Proceso: 14, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 11, Proceso: 12, Proceso: 25, Proceso: 29, Proceso: 10, Proceso: 13, Proceso: 19, Proceso: 17, Proceso: 7, Proceso: 9, Proceso: 26, Proceso: 5, Proceso: 8, Proceso: 24, Proceso: 23, Proceso: 27, Proceso: 1, Proceso: 16, Proceso: 20, Proceso: 15, Proceso: 14, Proceso: 18, Proceso: 21, Proceso: 3, Proceso: 30, Proceso: 28, Proceso: 2, Proceso: 4, Proceso: 22, Proceso: 6, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 23, Proceso: 3, Proceso: 12, Proceso: 13, Proceso: 20, Proceso: 21, Proceso: 16, Proceso: 26, Proceso: 15, Proceso: 28, Proceso: 19, Proceso: 4, Proceso: 11, Proceso: 27, Proceso: 6, Proceso: 9, Proceso: 17, Proceso: 14, Proceso: 22, Proceso: 2, Proceso: 7, Proceso: 30, Proceso: 10, Proceso: 24, Proceso: 29, Proceso: 8, Proceso: 18, Proceso: 25, Proceso: 1, Proceso: 5, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 1, Proceso: 22, Proceso: 5, Proceso: 11, Proceso: 19, Proceso: 26, Proceso: 6, Proceso: 20, Proceso: 25, Proceso: 17, Proceso: 7, Proceso: 14, Proceso: 4, Proceso: 12, Proceso: 29, Proceso: 13, Proceso: 15, Proceso: 27, Proceso: 18, Proceso: 8, Proceso: 21, Proceso: 2, Proceso: 3, Proceso: 30, Proceso: 16, Proceso: 23, Proceso: 24, Proceso: 10, Proceso: 9, Proceso: 28, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 20, Proceso: 24, Proceso: 8, Proceso: 12, Proceso: 18, Proceso: 26, Proceso: 13, Proceso: 21, Proceso: 2, Proceso: 15, Proceso: 14, Proceso: 3, Proceso: 6, Proceso: 22, Proceso: 1, Proceso: 23, Proceso: 5, Proceso: 9, Proceso: 11, Proceso: 17, Proceso: 28, Proceso: 4, Proceso: 27, Proceso: 10, Proceso: 19, Proceso: 16, Proceso: 25, Proceso: 30, Proceso: 7, Proceso: 29, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 7, Proceso: 1, Proceso: 15, Proceso: 3, Proceso: 19, Proceso: 29, Proceso: 2, Proceso: 24, Proceso: 9, Proceso: 11, Proceso: 14, Proceso: 28, Proceso: 30, Proceso: 4, Proceso: 8, Proceso: 12, Proceso: 18, Proceso: 21, Proceso: 25, Proceso: 26, Proceso: 27, Proceso: 20, Proceso: 16, Proceso: 10, Proceso: 13, Proceso: 22, Proceso: 6, Proceso: 17, Proceso: 5, Proceso: 23, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 11, Proceso: 24, Proceso: 22, Proceso: 26, Proceso: 4, Proceso: 9, Proceso: 21, Proceso: 30, Proceso: 25, Proceso: 17, Proceso: 27, Proceso: 8, Proceso: 15, Proceso: 16, Proceso: 19, Proceso: 2, Proceso: 5, Proceso: 20, Proceso: 28, Proceso: 12, Proceso: 14, Proceso: 18, Proceso: 1, Proceso: 6, Proceso: 3, Proceso: 7, Proceso: 13, Proceso: 29, Proceso: 10, Proceso: 23, 
+
+media: 3580.7 ms
+moda: No se encontró
+mediana: 4030.0 ms
+
+
+Ejecución número: 11
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 2, Proceso: 27, Proceso: 10, Proceso: 1, Proceso: 8, Proceso: 21, Proceso: 19, Proceso: 20, Proceso: 11, Proceso: 14, Proceso: 18, Proceso: 29, Proceso: 12, Proceso: 25, Proceso: 3, Proceso: 4, Proceso: 16, Proceso: 7, Proceso: 13, Proceso: 23, Proceso: 22, Proceso: 6, Proceso: 9, Proceso: 15, Proceso: 30, Proceso: 28, Proceso: 17, Proceso: 24, Proceso: 26, Proceso: 5, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 27, Proceso: 12, Proceso: 23, Proceso: 2, Proceso: 6, Proceso: 28, Proceso: 10, Proceso: 1, Proceso: 4, Proceso: 9, Proceso: 5, Proceso: 8, Proceso: 17, Proceso: 13, Proceso: 21, Proceso: 15, Proceso: 19, Proceso: 20, Proceso: 24, Proceso: 25, Proceso: 7, Proceso: 16, Proceso: 26, Proceso: 30, Proceso: 18, Proceso: 22, Proceso: 3, Proceso: 29, Proceso: 11, Proceso: 14, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 24, Proceso: 4, Proceso: 8, Proceso: 16, Proceso: 18, Proceso: 25, Proceso: 1, Proceso: 9, Proceso: 20, Proceso: 23, Proceso: 30, Proceso: 3, Proceso: 5, Proceso: 14, Proceso: 17, Proceso: 26, Proceso: 7, Proceso: 19, Proceso: 22, Proceso: 28, Proceso: 12, Proceso: 15, Proceso: 27, Proceso: 13, Proceso: 11, Proceso: 2, Proceso: 29, Proceso: 21, Proceso: 6, Proceso: 10, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 14, Proceso: 20, Proceso: 2, Proceso: 11, Proceso: 24, Proceso: 1, Proceso: 5, Proceso: 15, Proceso: 23, Proceso: 3, Proceso: 10, Proceso: 18, Proceso: 21, Proceso: 6, Proceso: 27, Proceso: 29, Proceso: 30, Proceso: 4, Proceso: 8, Proceso: 17, Proceso: 19, Proceso: 22, Proceso: 26, Proceso: 25, Proceso: 12, Proceso: 13, Proceso: 16, Proceso: 9, Proceso: 7, Proceso: 28, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 15, Proceso: 8, Proceso: 29, Proceso: 6, Proceso: 27, Proceso: 7, Proceso: 17, Proceso: 22, Proceso: 12, Proceso: 20, Proceso: 9, Proceso: 11, Proceso: 28, Proceso: 1, Proceso: 10, Proceso: 14, Proceso: 19, Proceso: 21, Proceso: 24, Proceso: 25, Proceso: 26, Proceso: 13, Proceso: 4, Proceso: 3, Proceso: 18, Proceso: 23, Proceso: 16, Proceso: 30, Proceso: 2, Proceso: 5, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 17, Proceso: 5, Proceso: 9, Proceso: 19, Proceso: 27, Proceso: 7, Proceso: 13, Proceso: 4, Proceso: 6, Proceso: 22, Proceso: 20, Proceso: 8, Proceso: 26, Proceso: 28, Proceso: 11, Proceso: 14, Proceso: 29, Proceso: 24, Proceso: 3, Proceso: 25, Proceso: 1, Proceso: 10, Proceso: 30, Proceso: 2, Proceso: 12, Proceso: 15, Proceso: 18, Proceso: 23, Proceso: 21, Proceso: 16, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 8, Proceso: 14, Proceso: 29, Proceso: 24, Proceso: 30, Proceso: 7, Proceso: 13, Proceso: 15, Proceso: 3, Proceso: 20, Proceso: 21, Proceso: 28, Proceso: 1, Proceso: 2, Proceso: 6, Proceso: 11, Proceso: 27, Proceso: 16, Proceso: 4, Proceso: 18, Proceso: 19, Proceso: 12, Proceso: 5, Proceso: 10, Proceso: 17, Proceso: 25, Proceso: 26, Proceso: 9, Proceso: 22, Proceso: 23, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 23, Proceso: 29, Proceso: 3, Proceso: 5, Proceso: 1, Proceso: 8, Proceso: 19, Proceso: 20, Proceso: 4, Proceso: 9, Proceso: 12, Proceso: 18, Proceso: 21, Proceso: 24, Proceso: 30, Proceso: 28, Proceso: 2, Proceso: 17, Proceso: 22, Proceso: 15, Proceso: 16, Proceso: 26, Proceso: 11, Proceso: 25, Proceso: 6, Proceso: 7, Proceso: 10, Proceso: 13, Proceso: 14, Proceso: 27, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 1, Proceso: 2, Proceso: 14, Proceso: 29, Proceso: 8, Proceso: 17, Proceso: 19, Proceso: 21, Proceso: 3, Proceso: 22, Proceso: 24, Proceso: 28, Proceso: 18, Proceso: 15, Proceso: 25, Proceso: 16, Proceso: 5, Proceso: 12, Proceso: 20, Proceso: 27, Proceso: 7, Proceso: 26, Proceso: 9, Proceso: 11, Proceso: 10, Proceso: 13, Proceso: 30, Proceso: 4, Proceso: 6, Proceso: 23, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 12, Proceso: 16, Proceso: 27, Proceso: 29, Proceso: 1, Proceso: 18, Proceso: 30, Proceso: 3, Proceso: 7, Proceso: 10, Proceso: 19, Proceso: 24, Proceso: 28, Proceso: 2, Proceso: 15, Proceso: 21, Proceso: 5, Proceso: 6, Proceso: 14, Proceso: 23, Proceso: 4, Proceso: 17, Proceso: 13, Proceso: 20, Proceso: 22, Proceso: 8, Proceso: 11, Proceso: 26, Proceso: 9, Proceso: 25, 
+
+media: 2156.3 ms
+moda: No se encontró
+mediana: 1974.0 ms
+
+
+Ejecución número: 12
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 7, Proceso: 25, Proceso: 2, Proceso: 17, Proceso: 26, Proceso: 5, Proceso: 12, Proceso: 29, Proceso: 18, Proceso: 22, Proceso: 23, Proceso: 16, Proceso: 27, Proceso: 4, Proceso: 20, Proceso: 14, Proceso: 21, Proceso: 1, Proceso: 3, Proceso: 9, Proceso: 15, Proceso: 28, Proceso: 8, Proceso: 13, Proceso: 24, Proceso: 30, Proceso: 10, Proceso: 19, Proceso: 11, Proceso: 6, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 9, Proceso: 21, Proceso: 2, Proceso: 22, Proceso: 3, Proceso: 14, Proceso: 1, Proceso: 8, Proceso: 18, Proceso: 17, Proceso: 5, Proceso: 19, Proceso: 10, Proceso: 11, Proceso: 23, Proceso: 27, Proceso: 15, Proceso: 4, Proceso: 13, Proceso: 6, Proceso: 12, Proceso: 26, Proceso: 29, Proceso: 16, Proceso: 20, Proceso: 30, Proceso: 7, Proceso: 24, Proceso: 28, Proceso: 25, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 12, Proceso: 13, Proceso: 29, Proceso: 1, Proceso: 30, Proceso: 18, Proceso: 17, Proceso: 27, Proceso: 21, Proceso: 11, Proceso: 14, Proceso: 28, Proceso: 10, Proceso: 6, Proceso: 23, Proceso: 8, Proceso: 24, Proceso: 9, Proceso: 25, Proceso: 5, Proceso: 7, Proceso: 15, Proceso: 2, Proceso: 22, Proceso: 19, Proceso: 26, Proceso: 4, Proceso: 3, Proceso: 16, Proceso: 20, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 24, Proceso: 13, Proceso: 22, Proceso: 26, Proceso: 5, Proceso: 6, Proceso: 1, Proceso: 10, Proceso: 14, Proceso: 29, Proceso: 28, Proceso: 4, Proceso: 7, Proceso: 12, Proceso: 30, Proceso: 3, Proceso: 17, Proceso: 23, Proceso: 25, Proceso: 8, Proceso: 16, Proceso: 19, Proceso: 20, Proceso: 2, Proceso: 18, Proceso: 11, Proceso: 9, Proceso: 27, Proceso: 21, Proceso: 15, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 11, Proceso: 14, Proceso: 27, Proceso: 5, Proceso: 8, Proceso: 18, Proceso: 26, Proceso: 29, Proceso: 2, Proceso: 13, Proceso: 15, Proceso: 7, Proceso: 9, Proceso: 30, Proceso: 3, Proceso: 16, Proceso: 19, Proceso: 25, Proceso: 28, Proceso: 1, Proceso: 17, Proceso: 10, Proceso: 6, Proceso: 4, Proceso: 12, Proceso: 21, Proceso: 22, Proceso: 23, Proceso: 24, Proceso: 20, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 3, Proceso: 12, Proceso: 18, Proceso: 20, Proceso: 26, Proceso: 16, Proceso: 25, Proceso: 7, Proceso: 14, Proceso: 21, Proceso: 23, Proceso: 9, Proceso: 30, Proceso: 22, Proceso: 4, Proceso: 6, Proceso: 28, Proceso: 13, Proceso: 17, Proceso: 2, Proceso: 8, Proceso: 10, Proceso: 24, Proceso: 29, Proceso: 11, Proceso: 1, Proceso: 19, Proceso: 5, Proceso: 27, Proceso: 15, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 27, Proceso: 7, Proceso: 12, Proceso: 25, Proceso: 5, Proceso: 28, Proceso: 3, Proceso: 4, Proceso: 14, Proceso: 21, Proceso: 23, Proceso: 22, Proceso: 26, Proceso: 2, Proceso: 15, Proceso: 29, Proceso: 17, Proceso: 24, Proceso: 10, Proceso: 18, Proceso: 16, Proceso: 20, Proceso: 30, Proceso: 19, Proceso: 1, Proceso: 6, Proceso: 8, Proceso: 9, Proceso: 11, Proceso: 13, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 5, Proceso: 26, Proceso: 7, Proceso: 13, Proceso: 18, Proceso: 23, Proceso: 2, Proceso: 4, Proceso: 14, Proceso: 19, Proceso: 27, Proceso: 1, Proceso: 11, Proceso: 21, Proceso: 3, Proceso: 29, Proceso: 9, Proceso: 30, Proceso: 8, Proceso: 12, Proceso: 20, Proceso: 10, Proceso: 17, Proceso: 24, Proceso: 22, Proceso: 28, Proceso: 15, Proceso: 25, Proceso: 16, Proceso: 6, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 12, Proceso: 2, Proceso: 3, Proceso: 7, Proceso: 17, Proceso: 28, Proceso: 22, Proceso: 19, Proceso: 8, Proceso: 14, Proceso: 23, Proceso: 4, Proceso: 10, Proceso: 30, Proceso: 1, Proceso: 5, Proceso: 20, Proceso: 25, Proceso: 29, Proceso: 21, Proceso: 26, Proceso: 13, Proceso: 16, Proceso: 6, Proceso: 9, Proceso: 15, Proceso: 24, Proceso: 11, Proceso: 18, Proceso: 27, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 30, Proceso: 8, Proceso: 9, Proceso: 10, Proceso: 12, Proceso: 27, Proceso: 14, Proceso: 21, Proceso: 3, Proceso: 11, Proceso: 6, Proceso: 15, Proceso: 18, Proceso: 19, Proceso: 5, Proceso: 7, Proceso: 16, Proceso: 2, Proceso: 1, Proceso: 17, Proceso: 25, Proceso: 28, Proceso: 20, Proceso: 22, Proceso: 24, Proceso: 26, Proceso: 13, Proceso: 4, Proceso: 23, Proceso: 29, 
+
+media: 2750.0 ms
+moda: No se encontró
+mediana: 2115.0 ms
+
+
+Ejecución número: 13
+
+Tanda 1 de procesos, orden de finalización: 
+Proceso: 22, Proceso: 26, Proceso: 30, Proceso: 14, Proceso: 7, Proceso: 15, Proceso: 23, Proceso: 2, Proceso: 29, Proceso: 1, Proceso: 25, Proceso: 4, Proceso: 12, Proceso: 27, Proceso: 28, Proceso: 19, Proceso: 20, Proceso: 13, Proceso: 17, Proceso: 18, Proceso: 11, Proceso: 21, Proceso: 24, Proceso: 5, Proceso: 6, Proceso: 3, Proceso: 16, Proceso: 9, Proceso: 10, Proceso: 8, 
+
+Tanda 2 de procesos, orden de finalización: 
+Proceso: 5, Proceso: 18, Proceso: 26, Proceso: 21, Proceso: 19, Proceso: 28, Proceso: 2, Proceso: 7, Proceso: 15, Proceso: 23, Proceso: 1, Proceso: 14, Proceso: 30, Proceso: 6, Proceso: 17, Proceso: 29, Proceso: 8, Proceso: 25, Proceso: 13, Proceso: 4, Proceso: 20, Proceso: 10, Proceso: 16, Proceso: 9, Proceso: 3, Proceso: 22, Proceso: 12, Proceso: 27, Proceso: 24, Proceso: 11, 
+
+Tanda 3 de procesos, orden de finalización: 
+Proceso: 30, Proceso: 18, Proceso: 28, Proceso: 1, Proceso: 10, Proceso: 20, Proceso: 17, Proceso: 23, Proceso: 27, Proceso: 24, Proceso: 8, Proceso: 13, Proceso: 5, Proceso: 16, Proceso: 3, Proceso: 11, Proceso: 6, Proceso: 26, Proceso: 29, Proceso: 15, Proceso: 25, Proceso: 4, Proceso: 22, Proceso: 9, Proceso: 2, Proceso: 7, Proceso: 12, Proceso: 19, Proceso: 21, Proceso: 14, 
+
+Tanda 4 de procesos, orden de finalización: 
+Proceso: 29, Proceso: 25, Proceso: 16, Proceso: 13, Proceso: 2, Proceso: 23, Proceso: 28, Proceso: 3, Proceso: 15, Proceso: 17, Proceso: 9, Proceso: 21, Proceso: 26, Proceso: 22, Proceso: 30, Proceso: 7, Proceso: 12, Proceso: 20, Proceso: 5, Proceso: 27, Proceso: 1, Proceso: 10, Proceso: 18, Proceso: 4, Proceso: 6, Proceso: 24, Proceso: 14, Proceso: 19, Proceso: 8, Proceso: 11, 
+
+Tanda 5 de procesos, orden de finalización: 
+Proceso: 5, Proceso: 2, Proceso: 3, Proceso: 13, Proceso: 1, Proceso: 15, Proceso: 7, Proceso: 26, Proceso: 10, Proceso: 19, Proceso: 11, Proceso: 12, Proceso: 14, Proceso: 25, Proceso: 16, Proceso: 20, Proceso: 27, Proceso: 29, Proceso: 9, Proceso: 6, Proceso: 22, Proceso: 30, Proceso: 17, Proceso: 23, Proceso: 4, Proceso: 18, Proceso: 24, Proceso: 21, Proceso: 28, Proceso: 8, 
+
+Tanda 6 de procesos, orden de finalización: 
+Proceso: 11, Proceso: 9, Proceso: 30, Proceso: 14, Proceso: 27, Proceso: 20, Proceso: 2, Proceso: 26, Proceso: 28, Proceso: 13, Proceso: 25, Proceso: 21, Proceso: 22, Proceso: 6, Proceso: 10, Proceso: 23, Proceso: 15, Proceso: 4, Proceso: 8, Proceso: 24, Proceso: 1, Proceso: 7, Proceso: 5, Proceso: 18, Proceso: 19, Proceso: 3, Proceso: 16, Proceso: 17, Proceso: 12, Proceso: 29, 
+
+Tanda 7 de procesos, orden de finalización: 
+Proceso: 25, Proceso: 22, Proceso: 7, Proceso: 15, Proceso: 5, Proceso: 10, Proceso: 12, Proceso: 13, Proceso: 29, Proceso: 4, Proceso: 14, Proceso: 18, Proceso: 19, Proceso: 11, Proceso: 17, Proceso: 24, Proceso: 2, Proceso: 8, Proceso: 20, Proceso: 1, Proceso: 6, Proceso: 23, Proceso: 28, Proceso: 21, Proceso: 3, Proceso: 16, Proceso: 26, Proceso: 30, Proceso: 9, Proceso: 27, 
+
+Tanda 8 de procesos, orden de finalización: 
+Proceso: 28, Proceso: 5, Proceso: 9, Proceso: 8, Proceso: 1, Proceso: 11, Proceso: 17, Proceso: 25, Proceso: 23, Proceso: 18, Proceso: 2, Proceso: 6, Proceso: 20, Proceso: 10, Proceso: 29, Proceso: 13, Proceso: 15, Proceso: 22, Proceso: 7, Proceso: 24, Proceso: 27, Proceso: 14, Proceso: 16, Proceso: 4, Proceso: 19, Proceso: 26, Proceso: 3, Proceso: 21, Proceso: 12, Proceso: 30, 
+
+Tanda 9 de procesos, orden de finalización: 
+Proceso: 4, Proceso: 6, Proceso: 14, Proceso: 22, Proceso: 15, Proceso: 3, Proceso: 7, Proceso: 20, Proceso: 1, Proceso: 2, Proceso: 10, Proceso: 23, Proceso: 30, Proceso: 8, Proceso: 16, Proceso: 29, Proceso: 11, Proceso: 28, Proceso: 19, Proceso: 27, Proceso: 5, Proceso: 9, Proceso: 12, Proceso: 24, Proceso: 26, Proceso: 13, Proceso: 17, Proceso: 18, Proceso: 21, Proceso: 25, 
+
+Tanda 10 de procesos, orden de finalización: 
+Proceso: 14, Proceso: 15, Proceso: 23, Proceso: 9, Proceso: 13, Proceso: 6, Proceso: 19, Proceso: 21, Proceso: 26, Proceso: 2, Proceso: 5, Proceso: 11, Proceso: 28, Proceso: 3, Proceso: 4, Proceso: 7, Proceso: 12, Proceso: 17, Proceso: 22, Proceso: 24, Proceso: 10, Proceso: 16, Proceso: 27, Proceso: 29, Proceso: 8, Proceso: 20, Proceso: 30, Proceso: 1, Proceso: 25, Proceso: 18, 
+
+media: 3809.7 ms
+moda: No se encontró
+mediana: 4437.0 ms
+
+

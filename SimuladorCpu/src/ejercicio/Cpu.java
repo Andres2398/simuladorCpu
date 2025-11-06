@@ -3,14 +3,14 @@ package ejercicio;
 import java.util.Random;
 
 /**
- * Clase Cpu
+ * Clase Cpu que se dedicara a consumir el quantum de los procesos
  */
 public class Cpu implements Runnable {
-	private final Planificador planificador;
-	private final ColaBloqueados colaBloq;
+	private  Planificador planificador;
+	private  ColaBloqueados colaBloq;
 
-	private final Random r = new Random();
-	private volatile boolean running = true;
+	private Random r = new Random();
+	private boolean running = true;
 	private Proceso procesoActual = null;
 	private Despachador despachador;
 
@@ -24,17 +24,16 @@ public class Cpu implements Runnable {
 	public void detener() {
 		running = false;
 	}
-	
-	
-	
+
 	/**
 	 * Metodo para sacar bloquear el proceso actual llamado desde el hilo de E/S
 	 */
 	public void interrumpirPorES() {
 		if (procesoActual != null && procesoActual.getEstado() == Estado.EJECUTANDO) {
-			System.out.printf("⚡ E/S interrumpe proceso %d%n", procesoActual.getId());
-			//importante try catch ya que puede que el proceso cambie a null ya que los 2 hilos interactuan sobre el
-			//doble verficacion
+			System.out.println(Color.VERDE+"E/S interrumpe proceso "+ procesoActual.getId()+Color.RESET);
+			// importante try catch ya que puede que el proceso cambie a null ya que los 2
+			// hilos interactuan sobre el
+			// doble verficacion
 			try {
 				if (procesoActual != null) {
 					procesoActual.setEstado(Estado.BLOQUEADO);
@@ -59,7 +58,7 @@ public class Cpu implements Runnable {
 
 			if (p == null) {
 				if (colaBloq.estaVacia() && planificador.estaVacia()) {
-					System.out.println("CPU: no hay procesos pendientes. Finalizando.");
+					System.out.println(Color.AZUL+"CPU: no hay procesos pendientes. Finalizando."+Color.RESET);
 					detener();
 					// importante el return cuando no quedan procesos para evitar el null point
 					// exception
@@ -70,7 +69,7 @@ public class Cpu implements Runnable {
 			procesoActual = p;
 			// comprobamos primero que su quantum sea 0 ya que puede que se bloquee
 			// cuando su quantum es 0 y entrar en bucle infinito, forzamos a salir
-			if (procesoActual.getQuantum() == 0) {
+			if (p.getQuantum() == 0) {
 				p.setEstado(Estado.TERMINADO);
 				p.finProceso();
 				despachador.agregarAcolaTerminados(p);
@@ -78,13 +77,18 @@ public class Cpu implements Runnable {
 			} else {
 
 				p.setEstado(Estado.EJECUTANDO);
-				System.out.printf("➡️ Ejecutando proceso %d (quantum actual=%d)%n", p.getId(), p.getQuantum());
+				System.out.println(Color.AZUL+"Ejecutando proceso" + p.getId() + " (quantum actual= " + p.getQuantum() + ")"+Color.RESET);
 
 				int ejecutadas = 0;
 				int ciclosAleatorios = r.nextInt(200, 900);
 
+				// si los ciclos asignados son mayor al quantum restante, igualos ciclos al
+				// quantum
+				if (ciclosAleatorios > p.getQuantum())
+					ciclosAleatorios = p.getQuantum();
+
 				while (ciclosAleatorios > 0 && p.getEstado() != Estado.BLOQUEADO) {
-					// simula trabajo
+					// simular trabajo
 					for (int j = 0; j < 1000; j++)
 						;
 
@@ -93,20 +97,21 @@ public class Cpu implements Runnable {
 				}
 
 				p.consumirQuantum(ejecutadas);
-				System.out.printf("⏱️ Proceso %d ejecutó %d ciclos (restante=%d)%n", p.getId(), ejecutadas,
-						p.getQuantum());
+				System.out.println(Color.AZUL+"Proceso " + p.getId() + " ejecutó " + ejecutadas + " ciclos (restante="
+						+ p.getQuantum() + ")"+Color.RESET);
 
 				if (p.getEstado() == Estado.EJECUTANDO) {
 					if (p.getQuantum() > 0) {
 						p.setEstado(Estado.LISTO);
-						despachador.agregarAcolaListos(procesoActual);
-						System.out.printf("🔁 Proceso %d reencolado (restante=%d)%n", p.getId(), p.getQuantum());
+						despachador.agregarAcolaListos(p);
+						System.out.println(Color.AZUL+
+								"Proceso " + p.getId() + " reencolado ciclos (restante=" + p.getQuantum() + ")"+Color.RESET);
 					} else {
 						p.setEstado(Estado.TERMINADO);
 						p.finProceso();
-						despachador.agregarAcolaTerminados(procesoActual);
+						despachador.agregarAcolaTerminados(p);
 
-						System.out.printf("✅ Proceso %d terminó completamente.%n", p.getId());
+						System.out.println(Color.AZUL+"Proceso " + p.getId() + " terminó completamente."+Color.RESET);
 					}
 				}
 			}
@@ -118,6 +123,6 @@ public class Cpu implements Runnable {
 			}
 		}
 
-		System.out.println("🧠 CPU detenida.");
+		System.out.println(Color.AZUL+"CPU detenida."+Color.RESET);
 	}
 }
